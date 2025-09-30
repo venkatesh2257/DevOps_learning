@@ -1,0 +1,33 @@
+Category
+Tool
+Notes
+Terminal
+Ubuntu (WSL) / VirtualBox + Ubuntu ISO
+Needed for Linux practice
+Code Editor
+VS Code
+Extensions: Python, Docker, YAML
+Version Control
+Git
+Integrate with GitHub
+Containers
+Docker Desktop
+Use with docker-compose
+CI/CD
+Jenkins
+Use war file or Docker
+IaC
+Terraform
+Connect with AWS
+Kubernetes
+Minikube + kubectl
+Local K8s cluster
+Monitoring
+Prometheus, Grafana
+Use Docker for setup
+Cloud
+AWS Free Tier
+Start with EC2, S3, IAM
+
+
+
